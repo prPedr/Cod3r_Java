@@ -1,0 +1,2 @@
+public class VariaveisConstantes {
+}
