@@ -7,6 +7,6 @@ public class VariaveisConstantes {
 
         int resultado = num1 + num2;
 
-        System.out.println(resultado);
+        System.out.printf("%d + %d = %d", num1, num2, resultado);
     }
 }
